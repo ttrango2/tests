@@ -5,3 +5,4 @@ czwarta linia
 piata linia
 \n kolejna linia
 \n kolejna linia
+kolejna linia
