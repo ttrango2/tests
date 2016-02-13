@@ -3,3 +3,5 @@ druga linia
 trzecia linia
 czwarta linia
 piata linia
+\n kolejna linia
+\n kolejna linia
